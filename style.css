@@ -1,0 +1,82 @@
+* {
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.sol ul li {
+    margin-bottom: 24px;
+}
+
+.sol ul {
+    list-style: none;
+
+    background: aqua;
+    width: 70%;
+    font-size: 25px;
+    color: burlywood;
+}
+
+.sol {
+    float: left;
+    width: 50%;
+    background: aqua;
+    height: 100vh;
+    /* margin: 10px; */
+    padding: 110px;
+}
+
+.sag {
+    float: left;
+    width: 40%;
+    padding: 200px 150px;
+}
+
+.sag .sekil {
+    width: 5%;
+    float: left;
+}
+
+.sag .sekil img {
+    width: 77px;
+}
+
+.clear {
+    width: 11px;
+    clear: both;
+}
+
+.sag .mybtn {
+    padding: 10px 10px;
+    border-radius: 15px;
+    background: transparent;
+    border: 1px solid black;
+    float: right;
+}
+
+.sag .mybtn2 {
+    padding: 8px 15px;
+    width: 100%;
+    font-weight: bold;
+    margin-top: 10px;
+    background-color: turquoise;
+    color: white;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.sag .mybtn2:hover {
+    background: yellow;
+}
+
+.sag .mybtn2:last-child {
+    background: transparent;
+    border: 1px solid;
+    color: teal;
+}
+.asagi li {
+    list-style: none;
+    float: none;
+    padding: 7px 15px;
+    color: rgb(20, 11, 11)ddd;
+}
